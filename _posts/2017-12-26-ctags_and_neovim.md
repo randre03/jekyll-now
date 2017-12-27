@@ -3,13 +3,13 @@ layout: post
 title: Getting ctags to work with Elixir (in Neovim)
 ---
 
-(Note: I've gone back to Spacemacs, but leaving here in case it's useful for future me and others.)
-
-### tldr: If you're using universal-ctags and want elixir support:
+tldr: If you're using universal-ctags and want elixir support:
  - navigate to, or create, ~/.ctags.d
  - inside, create elixir.ctags file
  - copy and paste the contents of the [elixir-ctags](https://github.com/mmorearty/elixir-ctags) file into `~/.ctags.d/elixir.ctags`.
  - run ctags -R in your project directory
+
+(Note: I've gone back to Spacemacs, but leaving here in case it's useful for future me and others.)
 
 I saw this post: ['Vim is the Perfect IDE'](http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html) on the CoderOnCode blog.
 
