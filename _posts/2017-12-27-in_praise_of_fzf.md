@@ -2,7 +2,6 @@
 layout: post
 title: In Praise of the FZF Plugin for Vim
 ---
-(Note: I have switched back to Spacemacs, but this plugin is still amazing!)
 
 tldr:
 The [fzf plugin for vim](https://github.com/junegunn/fzf.vim) is an absolute game-changer. Some things to try:
@@ -13,6 +12,8 @@ The [fzf plugin for vim](https://github.com/junegunn/fzf.vim) is an absolute gam
  - :BLines: like above but limited to current buffer's contents
  - :Tags: yup, fuzzy-find for ctags
  - :BTags: yup, it's what you think
+
+(Note: I have switched back to Spacemacs, but this plugin is still amazing!)
 
 I can't quite recall how I came across [fzf](https://github.com/junegunn/fzf) and it's [vim plugin](https://github.com/junegunn/fzf.vim). fzf on its own is pretty cool, but the vim-plugin is _**AMAZING**_
 
