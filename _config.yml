@@ -9,6 +9,9 @@ description: Random musings and info by a wannabe developer.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# My Selected Theme
+theme: minima
+
 #
 # Flags below are optional
 #
