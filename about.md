@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My story is the same as everyone else's. Just an investment banker moonlighting as a developer. Equally happy to discuss:
+- Functional Programming languages and paradigms
+- non-profit senior living in the US
+- setting up and using text editors
+- Strategic Planning
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Pending...(possibly forever).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[roger@rogerrandall.com](mailto:roger@rogerrandall.com)
