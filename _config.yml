@@ -18,16 +18,16 @@ theme: minima
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: roger@rogerrandall.com
+  github: randre03
+  twitter: random_rer
+  rss: rss
+  dribbble:
   facebook:
   flickr:
-  github: randre03
   instagram:
   linkedin:
   pinterest:
-  rss: rss
-  twitter: random_rer
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
