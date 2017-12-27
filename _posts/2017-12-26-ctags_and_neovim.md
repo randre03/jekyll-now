@@ -3,8 +3,6 @@ layout: post
 title: Getting ctags to work with Elixir (in Neovim)
 ---
 
-# Getting ctags to work for elixir in vim
-
 (Note: I've gone back to Spacemacs, but leaving here in case it's useful for future me and others.)
 
 ### tldr: If you're using universal-ctags and want elixir support:
