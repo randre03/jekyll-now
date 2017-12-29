@@ -1,6 +1,8 @@
 ---
 layout: post
 title: In Praise of the FZF Plugin for Vim
+description: the FZF plugin for vim is amazing and you should be using it if you use vim
+tags: vim
 ---
 
 tldr:

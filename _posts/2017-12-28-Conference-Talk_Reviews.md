@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Reviews of Conference Talks
+description: I hope to create a series of blog posts reviewing conference talks
+tags: conference announcement
 ---
 
 I love a good conference talk and currently I am really into the [Elixir Programming Language](https://elixir-lang.org/). One thing though is it's tough to know which talks to watch online:

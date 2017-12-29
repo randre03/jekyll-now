@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dave Thomas "Power of Erlang, Beauty of Ruby"
+description: A review of Dave Thomas's "Power of Erlang, Beauty of Ruby" talk given at the 2013 Lonestar Ruby Conference
+tags: conference elixir
 ---
 tldr
  - The future is functional

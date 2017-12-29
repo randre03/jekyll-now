@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting ctags to work with Elixir (in Neovim)
+description: How to add ctags support for elixir
+tags: elixir ctags
 ---
 
 tldr: If you're using universal-ctags and want elixir support:

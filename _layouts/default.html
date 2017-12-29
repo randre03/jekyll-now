@@ -3,6 +3,11 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+    <!-- RER: Add blog tags to site -->
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
+
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -36,7 +41,11 @@
 
     <div id="main" role="main" class="container">
       {{ content }}
+
+    <!-- Show list of tags at bottom of each page -->
+    {% include archive.html %}
     </div>
+
 
     <div class="wrapper-footer">
       <div class="container">
