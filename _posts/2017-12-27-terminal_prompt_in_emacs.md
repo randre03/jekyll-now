@@ -1,3 +1,7 @@
+---
+layout: post
+title: Fix your Shell Prompt in Emacs
+---
 tldr
 If your shell prompt looks fine in iTerm2, but strange inside emacs shell (specifically, seeing `'1337;Remote Host...CurrentDir'` inside ansi-term or multi-term) try deleting your iterm-shell-integration file.
 (see applicable links at bottom of this post)
