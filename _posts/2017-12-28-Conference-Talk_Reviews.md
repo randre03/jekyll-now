@@ -12,6 +12,6 @@ I love a good conference talk and currently I am really into the [Elixir Program
 
 So, I thought I would write about some of the conference talks after I watch them. Let you know what it covers, etc. The format of these reviews is more 'stream-of-consciousness' than 'here's what happened minute by minute record'.
 
-I'm hoping to keep these coming...
-
 Here is a link to the first one: [Dave Thomas's talk "Power of Erlang, Beauty of Ruby" at 2013 Lonestar Ruby Conference]({% post_url 2017-12-28-conference_talk_review_Dave_Thomas_Lonestar_2013 %})
+
+I'm hoping to keep these coming...
