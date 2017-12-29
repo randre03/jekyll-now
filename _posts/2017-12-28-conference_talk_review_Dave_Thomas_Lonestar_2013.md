@@ -2,7 +2,7 @@
 layout: post
 title: Dave Thomas "Power of Erlang, Beauty of Ruby"
 description: A review of Dave Thomas's "Power of Erlang, Beauty of Ruby" talk given at the 2013 Lonestar Ruby Conference
-tags: conference elixir
+tags: conference elixir ruby
 ---
 tldr
  - The future is functional
@@ -51,7 +51,7 @@ Dave says elixir code looks like Ruby code if you squint.
 
 _My thoughts_: It's true, for folks that have seen or used ruby code, you'll notice familiar syntactical elements throughout elixir; however, syntax and semantics are two different things. I come from a functional programming background, so the idiomatic way of writing elixir code is familiar; however, for folks that have been writing ruby for a while, you will probably get tripped up once or twice because the syntax is familiar, but the semantics and idioms are not. Might make the context switch a bit harder at first.
 
-_Where DT shows what I mean_
+_Where DT shows what I mean_:
 He notes the problem of familiar syntax in an unfamiliar language is it can be hard to understand which code to write
 -we see this as he is pulling together a test for his fib / map functions
 
