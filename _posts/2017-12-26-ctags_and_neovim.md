@@ -8,12 +8,12 @@ tags: elixir ctags
 tldr: If you're using universal-ctags and want elixir support:
  - navigate to, or create, ~/.ctags.d
  - inside, create elixir.ctags file
- - copy and paste the contents of the [elixir-ctags](https://github.com/mmorearty/elixir-ctags) file into `~/.ctags.d/elixir.ctags`.
+ - copy and paste the contents of the [elixir-ctags](https://github.com/mmorearty/elixir-ctags){:target="_blank"} file into `~/.ctags.d/elixir.ctags`.
  - run ctags -R in your project directory
 
 (Note: I've gone back to Spacemacs, but leaving here in case it's useful for future me and others.)
 
-I saw this post: ['Vim is the Perfect IDE'](http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html) on the CoderOnCode blog.
+I saw this post: ['Vim is the Perfect IDE'](http://coderoncode.com/tools/2017/04/16/vim-the-perfect-ide.html){:target="_blank"} on the CoderOnCode blog.
 
 CoderOnCode also appears to be an elixir programmer. Lo and behold CoderOnCode has included ctags as part of the tools used for elixir programming.
 
@@ -30,7 +30,7 @@ With the knowledge that:
 
 I set off to make this happen in elixir.
 
-Searching the web far and wide all I could find was a package - [elixir-ctags](https://github.com/mmorearty/elixir-ctags) - with some cryptic instructions, and the exuberant ctags website which appears to have last been updated around the turn of the last millennium.
+Searching the web far and wide all I could find was a package - [elixir-ctags](https://github.com/mmorearty/elixir-ctags){:target="_blank"} - with some cryptic instructions, and the exuberant ctags website which appears to have last been updated around the turn of the last millennium.
 
 It appeared that many, many people struggled to get ctags to work on macOs. But I could not figure out how to get elixir and ctags to work together.
 

@@ -35,13 +35,13 @@ This also explained why one day my prompt was fine and the next day it was messe
 
 
 ### Links:
- - [my isssue: seeing '1337;Remote Host...CurrentDir=...'](https://redd.it/5p3njk)
+ - [my isssue: seeing '1337;Remote Host...CurrentDir=...'](https://redd.it/5p3njk){:target="_blank"}
  - Typical advice for fixing characters in emacs shell prompt:
-   - [color escape codes poluting emacs shell prompt](http://www.joshstaiger.org/archives/2005/07/fixing_garbage.html)
-   - [seeing '4m' in prompt](https://stackoverflow.com/questions/8918910/weird-character-zsh-in-emacs-terminal)
- - [Spacemacs](http://spacemacs.org)
- - [Neovim](https://neovim.io)
- - [information about iterm2-shell-integration](https://www.iterm2.com/documentation-shell-integration.html)
+   - [color escape codes poluting emacs shell prompt](http://www.joshstaiger.org/archives/2005/07/fixing_garbage.html){:target="_blank"}
+   - [seeing '4m' in prompt](https://stackoverflow.com/questions/8918910/weird-character-zsh-in-emacs-terminal){:target="_blank"}
+ - [Spacemacs](http://spacemacs.org){:target="_blank"}
+ - [Neovim](https://neovim.io){:target="_blank"}
+ - [information about iterm2-shell-integration](https://www.iterm2.com/documentation-shell-integration.html){:target="_blank"}
  - show unicode in emacs shell
  ```lisp
 (defun my-term-use-utf8 ()

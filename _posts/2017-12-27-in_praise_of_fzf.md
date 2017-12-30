@@ -6,7 +6,7 @@ tags: vim
 ---
 
 tldr:
-The [fzf plugin for vim](https://github.com/junegunn/fzf.vim) is an absolute game-changer. Some things to try:
+The [fzf plugin for vim](https://github.com/junegunn/fzf.vim){:target="_blank"} is an absolute game-changer. Some things to try:
  - :Files: fuzzy-find (very fast) files in your project
  - :GFiles: fuzzy-find the files in your project that are under version control
  - :Buffers: like :ls but you can again use fizzy-find
@@ -15,11 +15,11 @@ The [fzf plugin for vim](https://github.com/junegunn/fzf.vim) is an absolute gam
  - :Tags: yup, fuzzy-find for ctags
  - :BTags: yup, it's what you think
 
-(Note: I have switched back to Spacemacs, but this plugin is still amazing!)
+(Note: I have switched back to [Spacemacs](http://spacemacs.org/){:target="_blank"}, but this plugin is still amazing!)
 
-I can't quite recall how I came across [fzf](https://github.com/junegunn/fzf) and it's [vim plugin](https://github.com/junegunn/fzf.vim). fzf on its own is pretty cool, but the vim-plugin is _**AMAZING**_
+I can't quite recall how I came across [fzf](https://github.com/junegunn/fzf){:target="_blank"} and it's [vim plugin](https://github.com/junegunn/fzf.vim){:target="_blank"}. fzf on its own is pretty cool, but the vim-plugin is _**AMAZING**_
 
-I used to use Emacs (specifically Spacemacs) and there is an amazing set of packages: [Counsel, Ivy and Swiper](https://github.com/abo-abo/swiper)
+I used to use Emacs (specifically Spacemacs) and there is an amazing set of packages: [Counsel, Ivy and Swiper](https://github.com/abo-abo/swiper){:target="_blank"}
 
 In emacs you need something called a completion engine. This is the interface through-which you interact with emacs (helm and ido are two popular completion packages as well).
 
@@ -39,4 +39,4 @@ can't remember that keyboard shortcut? :Maps
 
 Oh yeah...you can create your own commands too!
 
-fzf is a must-have vim plugin. Actually, the developer [junegunn](https://github.com/junegunn) has other great vim plugins. Use the link to browse his repository. I suggest also reading through his .vimrc to see the plugins (his and others) he is using.
+fzf is a must-have vim plugin. Actually, the developer [junegunn](https://github.com/junegunn){:target="_blank"} has other great vim plugins. Use the link to browse his repository. I suggest also reading through his .vimrc to see the plugins (his and others) he is using.
